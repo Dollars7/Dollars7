@@ -21,15 +21,14 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 
 ## 🔥 Personal Activity
 
-<br>
-![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=tokyonight)  
-<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&hide_rank=true&theme=tokyonight)  
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=tokyonight)  
 <br>
 ![Contribution Calendar (Dollars7)](https://ghchart.rshah.org/Dollars7)
-
+<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=tokyonight)  
 
 
 ## 🧪 Academic Contributions
