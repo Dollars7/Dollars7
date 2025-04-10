@@ -31,9 +31,10 @@ Familiar with interdisciplinary workflows & art-engineering collaboration
 
 ## 🔥 GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=default)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=default)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&hide_rank=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=default)
 
 ---
 
@@ -44,10 +45,3 @@ You can view those projects and commit history here:
 🔗 **[University GitHub @apei3](https://github.com/apei3)**
 
 ![University Contributions](https://ghchart.rshah.org/apei3)
-
----
-
-## 📫 Contact Me
-
-📧 Email: dollars7allen@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ailun-pei/
