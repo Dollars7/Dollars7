@@ -48,7 +48,7 @@ You can view those projects and commit history here:
 
 ---
 
-## 🔥 GitHub Activity
+## 🔥 Personal Activity
 
 <br>
 
