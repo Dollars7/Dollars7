@@ -27,6 +27,19 @@ Object-Oriented Design, Debugging, Version Control, Cross-Platform Development
 **Collaboration & Support**  
 Familiar with interdisciplinary workflows & art-engineering collaboration
 
+
+---
+
+## 🧪 Academic Contributions
+
+Most of my coursework and contributions live in a separate GitHub account.  
+You can view those projects and commit history here:  
+🔗 **[University GitHub](https://github.com/apei3)**
+![GitHub Streak](https://streak-stats.demolab.com?user=apei3&theme=omni)
+![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=omni)
+![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=omni)
+![University Contributions](https://ghchart.rshah.org/apei3)
+
 ---
 
 ## 🔥 GitHub Activity
@@ -35,16 +48,6 @@ Familiar with interdisciplinary workflows & art-engineering collaboration
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&hide_rank=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=tokyonight)
-
-
----
-
-## 🧪 Academic Contributions
-
-Most of my coursework and contributions live in a separate GitHub account.  
-You can view those projects and commit history here:  
-🔗 **[University GitHub @apei3](https://github.com/apei3)**
-
-![University Contributions](https://ghchart.rshah.org/apei3)
+![University Contributions](https://ghchart.rshah.org/Dollars7)
 
 
