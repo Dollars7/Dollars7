@@ -38,11 +38,11 @@ You can view those projects and commit history here:
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=apei3&theme=omni)  
+![GitHub Streak](https://streak-stats.demolab.com?user=apei3&theme=algolia)  
 <br>
-![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=omni)  
+![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=algolia)  
 <br>
-![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=omni)  
+![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia)  
 <br>
 ![University Contributions](https://ghchart.rshah.org/apei3)  
 
