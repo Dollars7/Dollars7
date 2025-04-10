@@ -8,6 +8,7 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 
 ## 🧰 Tech Stack
 
+
 **Languages**  
 C++, Python, C#, Java, Bash, GML, Swift, Kotlin
 
@@ -27,7 +28,20 @@ Object-Oriented Design, Debugging, Version Control, Cross-Platform Development
 Familiar with interdisciplinary workflows & art-engineering collaboration
 
 
+## 🧰 Tech Stack
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | C++, Python, C#, Java, Bash, GML, Swift, Kotlin |
+| **Tools & Environments** | Git, Linux (shell, scripting), Visual Studio, GCC, GDB, Git CLI |
+| **Frameworks & Libraries** | Unity, MonoGame, OpenGL, UIKit, Core Animation, Android Studio, Xcode |
+| **Web & UI** | JavaScript, HTML, CSS, JavaFX, Figma, Adobe Suite |
+| **Core Skills** | Object-Oriented Design, Debugging, Version Control, Cross-Platform Dev |
+| **Collaboration** | Interdisciplinary workflows, Art–Engineering communication |
+
+
 ## 🔥 Personal Activity
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=tokyonight)  
 <br>
@@ -41,12 +55,11 @@ Familiar with interdisciplinary workflows & art-engineering collaboration
 
 ## 🧪 Academic Contributions
 
+
 Most of my coursework and class projects live in a separate GitHub account.  
 You can explore those repositories and commit history here:  
 🔗 **[University GitHub @apei3](https://github.com/apei3)**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=apei3&theme=algolia)  
-<br>
 ![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=algolia)  
 <br>
 ![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia)  
