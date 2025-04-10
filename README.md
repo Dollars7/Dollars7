@@ -31,7 +31,7 @@ Built with D3.js + Python + Spotify API.
 
 Most of my coursework and project commits are under my **university GitHub account**  
 🟩 You can view my commit history and academic work here:  
-👉 **[@GitHubUniUser](https://github.com/apei3)**
+👉 **[@GitHubapei3](https://github.com/apei3)**
 
 ![](https://ghchart.rshah.org/GitHubUniUser)
 
