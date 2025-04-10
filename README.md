@@ -33,8 +33,8 @@ Familiar with interdisciplinary workflows & art-engineering collaboration
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&hide_rank=true&theme=darkhub)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=darkhub)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&hide_rank=true&theme=omni)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=algolia)
 
 ---
 
