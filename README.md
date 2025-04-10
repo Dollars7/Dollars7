@@ -9,27 +9,6 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 ## 🧰 Tech Stack
 
 
-**Languages**  
-C++, Python, C#, Java, Bash, GML, Swift, Kotlin
-
-**Tools & Environments**  
-Git, Linux (shell, permissions, scripting), Visual Studio, GCC, GDB, Git CLI
-
-**Frameworks & Libraries**  
-Unity, MonoGame, OpenGL, UIKit, Core Animation, Android Studio, Xcode
-
-**Web & UI**  
-JavaScript, HTML, CSS, JavaFX, Figma, Adobe Suite
-
-**Core Skills**  
-Object-Oriented Design, Debugging, Version Control, Cross-Platform Development
-
-**Collaboration & Support**  
-Familiar with interdisciplinary workflows & art-engineering collaboration
-
-
-## 🧰 Tech Stack
-
 | Category | Skills |
 |----------|--------|
 | **Languages** | C++, Python, C#, Java, Bash, GML, Swift, Kotlin |
