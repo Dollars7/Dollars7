@@ -9,10 +9,24 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
-`Java` `C#` `Python` `JavaScript` `Unity` `OpenGL` `D3.js` `React` `Git`
+- 💻 **Languages**: JavaScript, Python, C++, Java  
+- 🎨 **Frontend**: React, CSS, HTML  
+- 🛠️ **Backend**: Node.js, Django  
+- 🗃️ **Databases**: MySQL, PostgreSQL, MongoDB  
+- ⚙️ **DevOps**: Docker, Kubernetes  
+- 🧰 **Tools**: Git, VS Code
 
+---
+
+## 🔥 GitHub Activity
+
+<!-- 等你有更高 streak 再加这个也行 -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact)
 ---
 
 ## 📌 Featured Projects
