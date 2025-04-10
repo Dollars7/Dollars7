@@ -20,7 +20,8 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 
 
 ## 🔥 Personal Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=default)
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=tokyonight)  
 <br>
