@@ -27,24 +27,6 @@ Object-Oriented Design, Debugging, Version Control, Cross-Platform Development
 **Collaboration & Support**  
 Familiar with interdisciplinary workflows & art-engineering collaboration
 
-
----
-
-## 🧪 Academic Contributions
-
-Most of my coursework and contributions live in a separate GitHub account.  
-You can view those projects and commit history here:  
-🔗 **[University GitHub](https://github.com/apei3)**
-
-<br>
-![GitHub Streak](https://streak-stats.demolab.com?user=apei3&theme=algolia)  
-<br>
-![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=algolia)  
-<br>
-![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia)  
-<br>
-![University Contributions](https://ghchart.rshah.org/apei3)  
-
 ---
 
 ## 🔥 Personal Activity
@@ -59,4 +41,16 @@ You can view those projects and commit history here:
 <br>
 ![University Contributions](https://ghchart.rshah.org/Dollars7)
 
+## 🧪 Academic Contributions
 
+Most of my coursework and contributions live in a separate GitHub account.  
+You can view those projects and commit history here:  
+🔗 **[University GitHub](https://github.com/apei3)**
+<br>
+![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=algolia)  
+<br>
+![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia)  
+<br>
+![University Contributions](https://ghchart.rshah.org/apei3)  
+
+---
