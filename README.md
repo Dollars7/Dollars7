@@ -37,7 +37,6 @@ You can view those projects and commit history here:
 🔗 **[University GitHub](https://github.com/apei3)**
 
 <br>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=apei3&theme=algolia)  
 <br>
 ![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=algolia)  
