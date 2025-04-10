@@ -29,26 +29,6 @@ Familiar with interdisciplinary workflows & art-engineering collaboration
 
 ---
 
-## 📌 Featured Projects
-
-### 🎮 [3D Shader Sandbox](https://github.com/Dollars7/ShaderSandbox)  
-A real-time shader editor with material controls and live preview  
-> Unity + HLSL + C# | Integrated into game pipeline for flexible testing and look dev
-
-### 🎮 [First-Person Shooter (Game Jam)](https://github.com/Dollars7/GameJamShooter)  
-48-hour Unity project featuring player controller, enemy AI, and game state logic  
-> Unity + C# | Rapid prototyping under time constraints
-
-### 📱 [Daily Task Planner App (iOS)](https://github.com/Dollars7/TaskPlannerApp)  
-Calendar-based task planning app with UIKit and gesture interactions  
-> Swift + Core Data + UIKit | Custom UI & persistent storage
-
-### 📊 [Music x Socioeconomic Trends Dashboard](https://github.com/Dollars7/MusicDataVis)  
-D3 + Spotify + US datasets to explore cultural-economic patterns  
-> D3.js + Python + Sentiment Analysis (VADER)
-
----
-
 ## 🔥 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dollars7&theme=default)  
