@@ -5,7 +5,6 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 🎓 **Graduating Spring 2025** | Seeking SDE / Graphics / Game-related roles  
 💡 Interested in cross-platform development, real-time rendering, and bridging engineering with design
 
----
 
 ## 🧰 Tech Stack
 
@@ -27,7 +26,6 @@ Object-Oriented Design, Debugging, Version Control, Cross-Platform Development
 **Collaboration & Support**  
 Familiar with interdisciplinary workflows & art-engineering collaboration
 
----
 
 ## 🔥 Personal Activity
 
@@ -39,7 +37,7 @@ Familiar with interdisciplinary workflows & art-engineering collaboration
 <br>
 ![Contribution Calendar (Dollars7)](https://ghchart.rshah.org/Dollars7)
 
----
+
 
 ## 🧪 Academic Contributions
 
