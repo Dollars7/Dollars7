@@ -9,6 +9,8 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 ## 🧰 Tech Stack
 
 
+
+
 | Category | Skills |
 |----------|--------|
 | **Languages** | C++, Python, C#, Java, Bash, GML, Swift, Kotlin |
@@ -36,8 +38,7 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 ## 🧪 Academic Contributions
 
 
-Most of my coursework and class projects live in a separate GitHub account.  
-You can explore those repositories and commit history here:  
+
 🔗 **[University GitHub @apei3](https://github.com/apei3)**
 
 ![University GitHub Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&hide_rank=true&theme=algolia)  
