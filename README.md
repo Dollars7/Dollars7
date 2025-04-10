@@ -43,5 +43,5 @@ You can explore those repositories and commit history here:
 <br>
 ![University Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia)  
 <br>
-**Contribution Calendar (apei3)**  
-![University Contributions](https://ghchart.rshah.org/apei3)
+<!-- **Contribution Calendar (apei3)**  
+![University Contributions](https://ghchart.rshah.org/apei3) -->
