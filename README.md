@@ -15,7 +15,7 @@ I'm a CS Master's student at Arizona State University with a passion for **Game 
 |----------|--------|
 | **Languages** | C++, Python, C#, Java, Bash, GML, Swift, Kotlin |
 | **Tools & Environments** | Git, Linux (shell, scripting), Visual Studio, GCC, GDB, Git CLI |
-| **Frameworks & Libraries** | Unity, MonoGame, OpenGL, UIKit, Core Animation, Android Studio, Xcode |
+| **Frameworks & Libraries** | Unity, MonoGame, WebGL, UIKit, Core Animation, Android Studio, Xcode |
 | **Web & UI** | JavaScript, HTML, CSS, JavaFX, Figma, Adobe Suite |
 | **Core Skills** | Object-Oriented Design, Debugging, Version Control, Cross-Platform Dev |
 | **Collaboration** | Interdisciplinary workflows, Art–Engineering communication |
