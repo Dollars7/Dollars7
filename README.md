@@ -7,17 +7,6 @@ I'm a CS Master's student at Arizona State University with a passion for **Graph
 
 
 
-## 🧰 Tech Stack
-
-| 💻 **Category**        | 🛠️ **Skills** |
-|------------------------|----------------|
-| 🧠 **Languages**        | C++, C#, Python, Java, GML, Bash, Swift, Kotlin |
-| 🎮 **Game & Graphics** | Unity, MonoGame, WebGL, OpenGL, Shader Graph, Core Animation |
-| 🎨 **Frontend & UI**   | JavaScript, HTML/CSS, JavaFX, UIKit, Android Studio, Figma, Adobe AE/PS/AI |
-| 🧪 **Dev Tools**       | Git (CLI & GUI), Linux, Visual Studio, Xcode, Android Studio |
-| 📦 **Backend & Data**  | RESTful API, MySQL, XML, JSON, Maven, pandas |
-| 🚀 **Core Skills**     | Object-Oriented Design, Debugging, Cross-Platform Dev, Shader Programming |
-| 🤝 **Collaboration**   | Interdisciplinary pipelines, Art–Code integration, Teaching & mentorship |
 
 ---
 <h3>🧰 <span style="background-color:#ffefa0; padding:4px 8px; border-radius:6px;">Tech Stack</span></h3>
