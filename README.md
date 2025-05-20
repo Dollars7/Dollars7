@@ -1,24 +1,25 @@
 # 👋 Hi, I'm Ailun Pei (@Dollars7)
 
-I'm a CS Master's student at Arizona State University with a passion for **Game Design**, **Graphics Programming**, and **Creative Tool Development**.
+I'm a CS Master's student at Arizona State University with a passion for **Graphics Programming**, **Game Development**,  and **Creative Tool Development**.
 
 🎓 **Graduating Spring 2025** | Seeking SDE / Graphics / Game-related roles  
-💡 Interested in cross-platform development, real-time rendering, and bridging engineering with design
+💡 Interested in **cross-platform systems**t, **real-time rendering**, and bridging **engineering and design**
+
 
 
 ## 🧰 Tech Stack
 
+| 💻 **Category**        | 🛠️ **Skills** |
+|------------------------|----------------|
+| 🧠 **Languages**        | C++, C#, Python, Java, GML, Bash, Swift, Kotlin |
+| 🎮 **Game & Graphics** | Unity, MonoGame, WebGL, OpenGL, Shader Graph, Core Animation |
+| 🎨 **Frontend & UI**   | JavaScript, HTML/CSS, JavaFX, UIKit, Android Studio, Figma, Adobe AE/PS/AI |
+| 🧪 **Dev Tools**       | Git (CLI & GUI), Linux, Visual Studio, Xcode, Android Studio |
+| 📦 **Backend & Data**  | RESTful API, MySQL, XML, JSON, Maven, pandas |
+| 🚀 **Core Skills**     | Object-Oriented Design, Debugging, Cross-Platform Dev, Shader Programming |
+| 🤝 **Collaboration**   | Interdisciplinary pipelines, Art–Code integration, Teaching & mentorship |
 
-
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | C++, Python, C#, Java, Bash, GML, Swift, Kotlin |
-| **Tools & Environments** | Git, Linux (shell, scripting), Visual Studio, GCC, GDB, Git CLI |
-| **Frameworks & Libraries** | Unity, MonoGame, WebGL, UIKit, Core Animation, Android Studio, Xcode |
-| **Web & UI** | JavaScript, HTML, CSS, JavaFX, Figma, Adobe Suite |
-| **Core Skills** | Object-Oriented Design, Debugging, Version Control, Cross-Platform Dev |
-| **Collaboration** | Interdisciplinary workflows, Art–Engineering communication |
+---
 
 
 ## 🔥 Personal Activity
