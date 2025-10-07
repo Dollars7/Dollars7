@@ -5,10 +5,11 @@ I'm a CS Master's student at Arizona State University with a passion for **Graph
 🎓 **Graduating Spring 2025** | Seeking SDE / Graphics / Game-related roles  
 💡 Interested in **cross-platform systems**t, **real-time rendering**, and bridging **engineering and design**
 
+📄 📄 📄 📄 **[View My Resume](https://dollars7.github.io/resume/SDE/Ailun_s_SWE_Resume.pdf))**
 
 
 
----
+------
 <h3>🧰 <span style="background-color:#ffefa0; padding:4px 8px; border-radius:6px;">Tech Stack</span></h3>
 
 <table>
