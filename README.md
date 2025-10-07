@@ -7,13 +7,20 @@ I'm a CS Master's student at Arizona State University with a passion for **Graph
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4A90E2?style=for-the-badge)](https://dollars7.github.io/resume/SDE/)
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4A90E2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://dollars7.github.io/resume/SDE/)
 
-</div>
+</divdiv>
+<p align="center">
+  <a href="https://dollars7.github.io/resume/SDE/">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-2E86AB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+  <a href="https://github.com/Dollars7">
+    <img src="https://img.shields.io/badge/Portfolio-@Dollars7-100000?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub">
+  </a>
+</p>
 
 
-
-------
+------------
 <h3>🧰 <span style="background-color:#ffefa0; padding:4px 8px; border-radius:6px;">Tech Stack</span></h3>
 
 <table>
