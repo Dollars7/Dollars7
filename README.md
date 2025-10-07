@@ -1,11 +1,15 @@
 # 👋 Hi, I'm Ailun Pei (@Dollars7)
 
-I'm a CS Master's student at Arizona State University with a passion for **Graphics Programming**, **Game Development**,  and **Creative Tool Development**.
+I'm a CS Master's student at Arizona State University with a passion for **Graphics Programming**, **Game Development**, and **Creative Tool Development**.
 
 🎓 **Graduating Spring 2025** | Seeking SDE / Graphics / Game-related roles  
-💡 Interested in **cross-platform systems**t, **real-time rendering**, and bridging **engineering and design**
+💡 Interested in **cross-platform systems**, **real-time rendering**, and bridging **engineering and design**
 
-📄 📄 📄 📄 **[View My Resume](https://dollars7.github.io/resume/SDE/Ailun_s_SWE_Resume.pdf)**
+<div align="center">
+  
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4A90E2?style=for-the-badge)](https://dollars7.github.io/resume/SDE/)
+
+</div>
 
 
 
