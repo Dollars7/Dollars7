@@ -16,20 +16,6 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 ## 🧰 Tech Stack
 
 <table>
-  <tr><td>💻 <strong>Languages</strong></td><td>C++, C#, Python, Java, GML, Bash, Swift, Kotlin</td></tr>
-  <tr><td>🎮 <strong>Game & Graphics</strong></td><td>Unity, MonoGame, WebGL, OpenGL, Shader Graph, Core Animation</td></tr>
-  <tr><td>🎨 <strong>Frontend & UI</strong></td><td>HTML/CSS, JavaScript, UIKit, JavaFX, Android Studio, Figma, Adobe Suite</td></tr>
-  <tr><td>🛠️ <strong>Dev Tools</strong></td><td>Git (CLI & GUI), Linux, Visual Studio, Xcode</td></tr>
-  <tr><td>📦 <strong>Backend & Data</strong></td><td>RESTful API, MySQL, XML, JSON, Maven, pandas</td></tr>
-  <tr><td>🚀 <strong>Core Skills</strong></td><td>Object-Oriented Design, Debugging, Shader Programming, Cross-Platform Dev</td></tr>
-  <tr><td>🤝 <strong>Collaboration</strong></td><td>Art–Engineering integration, Mentorship, Interdisciplinary teamwork</td></tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-<table>
   <tr>
     <td>💻 <strong>Languages</strong></td>
     <td>C++, C#, Python, Java, GML, Bash, Swift, Kotlin</td>
@@ -64,8 +50,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
   </tr>
 </table>
 
-
-
+---
 
 ## 🔥 Combined GitHub Activity
 
