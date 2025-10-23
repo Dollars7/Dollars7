@@ -73,7 +73,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 <div align="center">
 
 ![Top Langs (Dollars7)](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true)
-![Top Langs (apei3)](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia&hide_border=true)
+![Top Langs (apei3)](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=react&hide_border=true)
 
 </div>
 
