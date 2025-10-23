@@ -84,20 +84,6 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 **University GitHub:** [@apei3](https://github.com/apei3)
 
 ---
-## 📈 Contribution Calendars
-
-<div align="center">
-
-### 💻 Personal (Dollars7)
-![Contribution Calendar – Dollars7](https://ghchart.rshah.org/Dollars7)
-
----
-
-### 🎓 Academic (apei3)
-![Contribution Calendar – apei3](https://ghchart.rshah.org/apei3)
-
-</div>
-
 
 ## 📈 Contribution Calendars
 
