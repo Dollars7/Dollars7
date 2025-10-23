@@ -62,7 +62,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 <div align="center">
 
 ### 🧩 Personal & Academic Highlights
-![Dollars7 Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true)
+![Dollars7 Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=vue-dark&hide_rank=true&hide_border=true)
 ![apei3 Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&theme=algolia&hide_rank=true&hide_border=true)
 
 </div>
@@ -76,12 +76,6 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 ![Top Langs (apei3)](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=algolia&hide_border=true)
 
 </div>
-
----
-
-## 🧪 Academic Contributions (Details)
-
-**University GitHub:** [@apei3](https://github.com/apei3)
 
 ---
 
