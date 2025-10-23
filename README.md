@@ -63,7 +63,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 ### 🧩 Personal & Academic Highlights
 ![Dollars7 Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true)
-![apei3 Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&theme=algolia&hide_rank=true&hide_border=true) 
+![apei3 Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&theme=react&hide_rank=true&hide_border=true) 
 
 </div>
 
