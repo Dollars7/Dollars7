@@ -83,18 +83,35 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 **University GitHub:** [@apei3](https://github.com/apei3)
 
-> Key Coursework Projects:  
-> 🎵 *Music-Social Analysis (CSE572)* – Sentiment correlation between music and social data  
-> 🌀 *CSE570 Project 3* – Conformal mapping of 3D surfaces using harmonic energy minimization  
-> 🌈 *WebGL Playground* – Interactive shader and lighting demos  
-
 ---
-
 ## 📈 Contribution Calendars
 
 <div align="center">
 
-![Contribution Calendar (Dollars7)](https://ghchart.rshah.org/Dollars7)  
-![Contribution Calendar (apei3)](https://ghchart.rshah.org/apei3)
+### 💻 Personal (Dollars7)
+![Contribution Calendar – Dollars7](https://ghchart.rshah.org/Dollars7)
+
+---
+
+### 🎓 Academic (apei3)
+![Contribution Calendar – apei3](https://ghchart.rshah.org/apei3)
 
 </div>
+
+
+## 📈 Contribution Calendars
+
+<table align="center">
+  <tr>
+    <td align="center">
+      💻 <strong>Personal (Dollars7)</strong><br>
+      <img src="https://ghchart.rshah.org/Dollars7" alt="Dollars7's Contributions">
+    </td>
+    <td align="center">
+      🎓 <strong>Academic (apei3)</strong><br>
+      <img src="https://ghchart.rshah.org/apei3" alt="apei3's Contributions">
+    </td>
+  </tr>
+</table>
+
+
