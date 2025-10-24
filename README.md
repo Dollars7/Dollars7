@@ -7,7 +7,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4A90E2?style=plastic)](https://dollars7.github.io/resume/SDE/)
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4A90E2?style=plastic)](https://dollars7.github.io/resume/SWE/)
 
 </div>
 
