@@ -54,8 +54,8 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 ## 🔥 Combined GitHub Activity
 
-| Account | Focus |
-|----------|--------|
+| Account |
+|----------|
 | 💻 **[@Dollars7](https://github.com/Dollars7)** 
 | 🎓 **[@apei3](https://github.com/apei3)** 
 
