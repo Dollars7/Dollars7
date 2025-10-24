@@ -56,8 +56,8 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 | Account | Focus |
 |----------|--------|
-| 💻 **[@Dollars7](https://github.com/Dollars7)** | Portfolio, creative coding, shaders, and tool development |
-| 🎓 **[@apei3](https://github.com/apei3)** | Academic projects (CSE570, CSE572, WebGL, AI/ML experiments) |
+| 💻 **[@Dollars7](https://github.com/Dollars7)** 
+| 🎓 **[@apei3](https://github.com/apei3)** 
 
 <div align="center">
 
