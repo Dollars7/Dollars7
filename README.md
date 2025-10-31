@@ -63,11 +63,11 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
   <tr>
     <td align="center">
       💻 <strong>Personal Account</strong><br>
-      <a href="https://github.com/Dollars7">[@Dollars7](https://github.com/Dollars7)</a>
+      <a href="https://github.com/Dollars7">[@Dollars7]</a>
     </td>
     <td align="center">
       🎓 <strong>Academic Account</strong><br>
-      <a href="https://github.com/apei3">[@apei3](https://github.com/apei3)</a>
+      <a href="https://github.com/apei3">[@apei3]</a>
     </td>
   </tr>
 </table>
@@ -77,7 +77,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 ## 🏆 GitHub Trophies
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=flat&title=light&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
