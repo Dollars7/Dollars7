@@ -8,10 +8,9 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 <div align="center">
 
 
-[![SWE Resume](https://img.shields.io/badge/📄_Software_Engineer_Resume-007ACC?style=for-the-badge)](https://dollars7.github.io/resume/SWE/)
-[![Game Resume](https://img.shields.io/badge/🎮_Game_&_Graphics_Resume-FF6F61?style=for-the-badge)](https://dollars7.github.io/resume/Game/)
 
-</div>
+[![SWE Resume](https://img.shields.io/badge/📄_SWE_Resume-1D9BF0?style=plastic&logo=icloud&logoColor=white)](https://dollars7.github.io/resume/SWE/)
+[![Game Resume](https://img.shields.io/badge/🎮_Game/Graphics_Resume-8E44AD?style=plastic&logo=unity&logoColor=white)](https://dollars7.github.io/resume/Game/)
 
 
 </div>
@@ -59,10 +58,23 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 ## 🔥 Combined GitHub Activity
 
-| Account |
-|----------|
-| 💻 **[@Dollars7](https://github.com/Dollars7)** 
-| 🎓 **[@apei3](https://github.com/apei3)** 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      💻 <strong>Personal Account</strong><br>
+      <a href="https://github.com/Dollars7">[@Dollars7](https://github.com/Dollars7)</a>
+    </td>
+    <td align="center">
+      🎓 <strong>Academic Account</strong><br>
+      <a href="https://github.com/apei3">[@apei3](https://github.com/apei3)</a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 <div align="center">
 
