@@ -78,9 +78,12 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7,apei3&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=apei3&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 
 
