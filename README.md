@@ -7,7 +7,12 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4A90E2?style=plastic)](https://dollars7.github.io/resume/SWE/)
+
+[![SWE Resume](https://img.shields.io/badge/📄_Software_Engineer_Resume-007ACC?style=for-the-badge)](https://dollars7.github.io/resume/SWE/)
+[![Game Resume](https://img.shields.io/badge/🎮_Game_&_Graphics_Resume-FF6F61?style=for-the-badge)](https://dollars7.github.io/resume/Game/)
+
+</div>
+
 
 </div>
 
