@@ -55,6 +55,12 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 ---
 
+## 🏆 GitHub Trophies
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🔥 Combined GitHub Activity
 
 <div align="center">
@@ -74,10 +80,7 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 </div>
 
-## 🏆 GitHub Trophies
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
