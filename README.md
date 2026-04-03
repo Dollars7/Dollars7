@@ -68,20 +68,11 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 ---
 
-
-
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-bay-80.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true" alt="Dollars7 Stats" />
-</div>
-
----
-
-## 📊 Top Languages Overview
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-bay-80.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs (Dollars7)" />
+  <img height="160" src="https://github-readme-stats-eight-bay-80.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true" alt="Dollars7 Stats" />
+  <img height="160" src="https://github-readme-stats-eight-bay-80.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
@@ -89,5 +80,5 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 ## 📈 Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/Dollars7" alt="Dollars7's Contributions">
+  <img src="https://ghchart.rshah.org/239a3b/Dollars7" alt="Dollars7's Contributions">
 </div>
