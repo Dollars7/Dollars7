@@ -21,7 +21,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **AI Shader Studio** *(In Dev — Flagship)* | Natural language → GLSL shader generation for real-time game dev workflows | `WebGL` `GLSL` `Python` `LLM API` `React` |
+| 🤖 **AI Shader Studio** | Natural language → GLSL shader generation for real-time game dev workflows | `WebGL` `GLSL` `Python` `LLM API` `React` |
 | ✨ **[WebGL Shader Playground](https://dollars7.github.io)** *(Live)* | Interactive real-time shader tool with Phong/Gouraud pipelines, live material controls, 60fps | `WebGL` `GLSL` `JavaScript` |
 | 🎮 **Unity FPS — AI Nav & Shaders** | NavMesh enemy AI with state machines, shader-driven VFX wired to gameplay events via C# | `Unity` `C#` `HLSL` `NavMesh` |
 | 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes; custom physics, particle systems, compute shaders from scratch | `MonoGame` `C#` `GLSL` |
@@ -70,32 +70,14 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔥 Combined GitHub Activity
-
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      💻 <strong>Personal Account</strong><br>
-      <a href="https://github.com/Dollars7">[@Dollars7]</a>
-    </td>
-    <td align="center">
-      🎓 <strong>Academic Account</strong><br>
-      <a href="https://github.com/apei3">[@apei3]</a>
-    </td>
-  </tr>
-</table>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dollars7&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
+## 🔥 GitHub Activity
+
 <div align="center">
-
-### 🧩 Personal & Academic Highlights
-
-![Dollars7 Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true)
-![apei3 Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&theme=react&hide_rank=true&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true" alt="Dollars7 Stats" />
 </div>
 
 ---
@@ -103,25 +85,13 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 ## 📊 Top Languages Overview
 
 <div align="center">
-
-![Top Langs (Dollars7)](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true)
-![Top Langs (apei3)](https://github-readme-stats.vercel.app/api/top-langs/?username=apei3&layout=compact&theme=react&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs (Dollars7)" />
 </div>
 
 ---
 
-## 📈 Contribution Calendars
+## 📈 Contribution Calendar
 
-<table align="center">
-  <tr>
-    <td align="center">
-      💻 <strong>Personal (Dollars7)</strong><br>
-      <img src="https://ghchart.rshah.org/Dollars7" alt="Dollars7's Contributions">
-    </td>
-    <td align="center">
-      🎓 <strong>Academic (apei3)</strong><br>
-      <img src="https://ghchart.rshah.org/apei3" alt="apei3's Contributions">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://ghchart.rshah.org/Dollars7" alt="Dollars7's Contributions">
+</div>
