@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Ailun Pei (@Dollars7)
 
-I'm a CS Master's student at **Arizona State University**, passionate about **Graphics Programming**, **Game Development**, and **Creative Tool Engineering**.
+I'm a CS graduate from **Arizona State University** (MS, May 2025), passionate about **Graphics Programming**, **Game Development**, and **Creative Tool Engineering**.  
+Before code, I spent years in ceramic sculpture and professional design in Shanghai — I think about visual systems and craft in ways most engineers don't.
 
-🎓 **Graduating Spring 2025** | Seeking **SDE / Graphics / Game-related** roles  
-💡 Interested in **cross-platform systems**, **real-time rendering**, and **bridging art & engineering**
+🎓 **MS Computer Science, ASU** | Seeking **Graphics / Game Dev / SDE** roles  
+💡 Interested in **real-time rendering**, **shader systems**, and **bridging art & engineering**  
+🌏 Bilingual (Chinese / English)
 
 <div align="center">
 
@@ -13,6 +15,17 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **AI Shader Studio** *(In Dev — Flagship)* | Natural language → GLSL shader generation for real-time game dev workflows | `WebGL` `GLSL` `Python` `LLM API` `React` |
+| ✨ **[WebGL Shader Playground](https://dollars7.github.io)** *(Live)* | Interactive real-time shader tool with Phong/Gouraud pipelines, live material controls, 60fps | `WebGL` `GLSL` `JavaScript` |
+| 🎮 **Unity FPS — AI Nav & Shaders** | NavMesh enemy AI with state machines, shader-driven VFX wired to gameplay events via C# | `Unity` `C#` `HLSL` `NavMesh` |
+| 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes; custom physics, particle systems, compute shaders from scratch | `MonoGame` `C#` `GLSL` |
+| 🔵 **Spherical Conformal Mesh Parameterization** | Folding-free conformal mapping for genus-0 surfaces; Laplace–Beltrami + harmonic energy opt. | `Python` `NumPy` `SciPy` |
 
 ---
 
@@ -21,35 +34,35 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 <table>
   <tr>
     <td>💻 <strong>Languages</strong></td>
-    <td>C++, C#, Python, Java, GML, Bash, Swift, Kotlin</td>
+    <td>C#, C++, Python, JavaScript, TypeScript, HLSL, GLSL, Java, Bash, Swift, Kotlin</td>
   </tr>
   <tr>
     <td>🎮 <strong>Game & Graphics</strong></td>
-    <td>Unity, MonoGame, WebGL, OpenGL, GLSL, Shader Graph, Core Animation</td>
+    <td>Unity, MonoGame, WebGL, OpenGL, DirectX, Unreal Engine, GLSL, Shader Graph</td>
   </tr>
   <tr>
     <td>🧠 <strong>Creative & 3D Tools</strong></td>
-    <td>Blender, Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Substance Painter, Figma</td>
+    <td>Blender, Cinema 4D, Adobe Photoshop, Illustrator, After Effects, Substance Painter, Figma</td>
   </tr>
   <tr>
     <td>🎨 <strong>Frontend & UI</strong></td>
-    <td>HTML/CSS, JavaScript, UIKit, JavaFX, Android Studio, UI/UX Prototyping</td>
+    <td>React, HTML/CSS, JavaScript, TypeScript, Three.js, UIKit, UI/UX Prototyping</td>
   </tr>
   <tr>
     <td>🛠️ <strong>Dev Tools</strong></td>
-    <td>Git (CLI & GUI), Linux, Visual Studio, Xcode, VS Code, Notion, Obsidian</td>
+    <td>Git (CLI & GUI), Linux, Visual Studio, Xcode, VS Code, Docker, AWS</td>
   </tr>
   <tr>
     <td>📦 <strong>Backend & Data</strong></td>
-    <td>RESTful API, MySQL, XML, JSON, Maven, pandas</td>
+    <td>Node.js, Flask, FastAPI, RESTful API, MySQL, JSON, pandas</td>
   </tr>
   <tr>
     <td>🚀 <strong>Core Skills</strong></td>
-    <td>Object-Oriented Design, Shader Programming, Real-time Rendering, Cross-Platform Dev</td>
+    <td>Shader Programming, State Machines, Real-time Rendering, Physics Systems, OOP</td>
   </tr>
   <tr>
     <td>🤝 <strong>Collaboration</strong></td>
-    <td>Art–Engineering Integration, Visual Communication, Mentorship, Team-based Design</td>
+    <td>Art–Engineering Integration, Visual Communication, Mentorship (250+ students)</td>
   </tr>
 </table>
 
@@ -57,14 +70,11 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
 
 ## 🏆 GitHub Trophies
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dollars7&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 🔥 Combined GitHub Activity
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -77,26 +87,21 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
     </td>
   </tr>
 </table>
-
 </div>
-
-
-
-
-
-
 
 <div align="center">
 
 ### 🧩 Personal & Academic Highlights
+
 ![Dollars7 Stats](https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true)
-![apei3 Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&theme=react&hide_rank=true&hide_border=true) 
+![apei3 Stats](https://github-readme-stats.vercel.app/api?username=apei3&show_icons=true&theme=react&hide_rank=true&hide_border=true)
 
 </div>
 
 ---
 
 ## 📊 Top Languages Overview
+
 <div align="center">
 
 ![Top Langs (Dollars7)](https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true)
@@ -120,5 +125,3 @@ I'm a CS Master's student at **Arizona State University**, passionate about **Gr
     </td>
   </tr>
 </table>
-
-
