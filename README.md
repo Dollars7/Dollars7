@@ -77,7 +77,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true" alt="Dollars7 Stats" />
+  <img src="https://github-readme-stats-eight-bay-80.vercel.app/api?username=Dollars7&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true" alt="Dollars7 Stats" />
 </div>
 
 ---
@@ -85,7 +85,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 ## 📊 Top Languages Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs (Dollars7)" />
+  <img src="https://github-readme-stats-eight-bay-80.vercel.app/api/top-langs/?username=Dollars7&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs (Dollars7)" />
 </div>
 
 ---
