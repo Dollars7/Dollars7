@@ -22,7 +22,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **AI Shader Studio** | Natural language → GLSL shader generation for real-time game dev workflows | `WebGL` `GLSL` `Python` `LLM API` `React` |
-| ✨ **[WebGL Shader Playground]([https://github.com/Dollars7/WebGL-Shader-Playground]))** *(Live)* | Interactive real-time shader tool with Phong/Gouraud pipelines, live material controls, 60fps | `WebGL` `GLSL` `JavaScript` |
+| ✨ **[WebGL Shader Playground]([https://github.com/Dollars7/WebGL-Shader-Playground])** *(Live)* | Interactive real-time shader tool with Phong/Gouraud pipelines, live material controls, 60fps | `WebGL` `GLSL` `JavaScript` |
 | 🎮 **Unity FPS — AI Nav & Shaders** | NavMesh enemy AI with state machines, shader-driven VFX wired to gameplay events via C# | `Unity` `C#` `HLSL` `NavMesh` |
 | 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes; custom physics, particle systems, compute shaders from scratch | `MonoGame` `C#` `GLSL` |
 | 🔵 **Spherical Conformal Mesh Parameterization** | Folding-free conformal mapping for genus-0 surfaces; Laplace–Beltrami + harmonic energy opt. | `Python` `NumPy` `SciPy` |
