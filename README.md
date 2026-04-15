@@ -17,17 +17,35 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+### ✨ Core Graphics Work
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **AI Shader Studio** | Natural language → GLSL shader generation for real-time game dev workflows | `WebGL` `GLSL` `Python` `LLM API` `React` |
-| ✨ **[WebGL Shader Playground](https://github.com/Dollars7/WebGL-Shader-Playground)**  | Interactive real-time shader tool with Phong/Gouraud pipelines, live material controls, 60fps | `WebGL` `GLSL` `JavaScript` |
-| 🎮 **Unity FPS — AI Nav & Shaders** | NavMesh enemy AI with state machines, shader-driven VFX wired to gameplay events via C# | `Unity` `C#` `HLSL` `NavMesh` |
-| 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes; custom physics, particle systems, compute shaders from scratch | `MonoGame` `C#` `GLSL` |
-| 🔵 **Spherical Conformal Mesh Parameterization** | Folding-free conformal mapping for genus-0 surfaces; Laplace–Beltrami + harmonic energy opt. | `Python` `NumPy` `SciPy` |
+| ✨ **[WebGL Shader Playground](https://github.com/Dollars7/WebGL-Shader-Playground)** | Interactive real-time shader playground with custom GLSL pipelines, material controls, and dynamic lighting (60fps) | `WebGL` `GLSL` `JavaScript` |
+| 🎮 **Unity FPS — AI Nav & Shader VFX** | NavMesh enemy AI with state machines + shader-driven VFX integrated into gameplay systems | `Unity` `C#` `HLSL` |
+| 🔵 **Spherical Conformal Mesh Parameterization** | Geometry processing pipeline using Laplace–Beltrami operator + harmonic energy optimization | `Python` `NumPy` `SciPy` |
 
 ---
+
+### 🧱 Fullstack & Systems (In Progress)
+
+| Project | Description | Stack |
+|---|---|---|
+| 📘 **Knowledge Feed (Mini XHS System)** | A full-stack knowledge-sharing platform with feed, note publishing, and content organization (MVP in progress) | `React` `Node.js / FastAPI` `DB` |
+| 🎵 **Music Visualization Tool (WIP)** | Real-time audio-reactive visualization using WebGL / shader pipelines | `WebGL` `GLSL` `JavaScript` |
+
+---
+
+### 🕹️ Additional Work
+
+| Project | Description | Stack |
+|---|---|---|
+| 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes with custom physics, particle systems, and compute shaders | `MonoGame` `C#` |
+
+---
+
 
 ## 🧰 Tech Stack
 
