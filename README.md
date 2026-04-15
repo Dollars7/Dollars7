@@ -34,7 +34,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 | Project | Description | Stack |
 |---|---|---|
-| 📘 **Knowledge Feed (Mini XHS System)** | A full-stack knowledge-sharing platform with feed, note publishing, and content organization (MVP in progress) | `React` `Node.js / FastAPI` `DB` |
+| 📘 **[Knowledge Feed NoteFlow](https://github.com/Dollars7/NoteFlow)** | A full-stack knowledge-sharing platform with feed, note publishing, and content organization (MVP in progress) | `React` `Node.js / FastAPI` `DB` |
 | 🎵 **[Music Visualizer Studio](https://github.com/Dollars7/music-visualizer-studio)** | Real-time audio visualization system combining WebGL rendering and media processing pipeline (FFmpeg) | `WebGL` `GLSL` `JavaScript` `FFmpeg` |
 
 ---
