@@ -30,7 +30,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 ---
 
-### 🧱 Fullstack & Systems (In Progress)
+### 🧱 Fullstack & Systems 
 
 | Project | Description | Stack |
 |---|---|---|
@@ -43,7 +43,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 | Project | Description | Stack |
 |---|---|---|
-| 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes with custom physics, particle systems, and compute shaders | `MonoGame` `C#` |
+| 🫧 **MonoGame Dev Suite** | Multiple 2D/3D prototypes with custom physics, particle systems, and compute shaders | `MonoGame` `C#` |
 | 📱 **[iOS Daily Activity Monitoring System](https://github.com/Dollars7/Daily-Activity-Monitoring-System)** | Native iOS app for tracking daily activity patterns and visualizing behavioral data | `Swift` `iOS` |
 ---
 
