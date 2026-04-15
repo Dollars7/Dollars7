@@ -11,12 +11,13 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 
 [![SWE Resume](https://img.shields.io/badge/SWE_Resume-1D9BF0?style=for-the-badge&logo=icloud&logoColor=white)](https://dollars7.github.io/resume/SWE/)
 [![Game Resume](https://img.shields.io/badge/Game/Graphics_Resume-8E44AD?style=for-the-badge&logo=unity&logoColor=white)](https://dollars7.github.io/resume/Game/)
-[![Creative Resume](https://img.shields.io/badge/🎨_Creative_Resume-FF6F61?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://dollars7.github.io/resume/CreativeDev/)
 
+<!--
+[![Creative Resume](https://img.shields.io/badge/🎨_Creative_Resume-FF6F61?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://dollars7.github.io/resume/CreativeDev/)
+-->
 </div>
 
 ---
-
 # 🚀 Featured Projects
 
 ### ✨ Core Graphics Work
@@ -25,7 +26,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 |---|---|---|
 | ✨ **[WebGL Shader Playground](https://github.com/Dollars7/WebGL-Shader-Playground)** | Interactive real-time shader playground with custom GLSL pipelines, material controls, and dynamic lighting (60fps) | `WebGL` `GLSL` `JavaScript` |
 | 🎮 **Unity FPS — AI Nav & Shader VFX** | NavMesh enemy AI with state machines + shader-driven VFX integrated into gameplay systems | `Unity` `C#` `HLSL` |
-| 🔵 **Spherical Conformal Mesh Parameterization** | Geometry processing pipeline using Laplace–Beltrami operator + harmonic energy optimization | `Python` `NumPy` `SciPy` |
+| 🔵 **[Spherical Conformal Mesh Parameterization](https://github.com/Dollars7/Spherical-Conformal-Parameterization-of-3D-Meshes)** | Geometry processing pipeline using Laplace–Beltrami operator + harmonic energy optimization for genus-0 meshes | `Python` `NumPy` `SciPy` |
 
 ---
 
@@ -34,7 +35,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 | Project | Description | Stack |
 |---|---|---|
 | 📘 **Knowledge Feed (Mini XHS System)** | A full-stack knowledge-sharing platform with feed, note publishing, and content organization (MVP in progress) | `React` `Node.js / FastAPI` `DB` |
-| 🎵 **Music Visualization Tool (WIP)** | Real-time audio-reactive visualization using WebGL / shader pipelines | `WebGL` `GLSL` `JavaScript` |
+| 🎵 **[Music Visualizer Studio](https://github.com/Dollars7/music-visualizer-studio)** | Real-time audio visualization system combining WebGL rendering and media processing pipeline (FFmpeg) | `WebGL` `GLSL` `JavaScript` `FFmpeg` |
 
 ---
 
@@ -43,7 +44,7 @@ Before code, I spent years in ceramic sculpture and professional design in Shang
 | Project | Description | Stack |
 |---|---|---|
 | 🕹️ **MonoGame Dev Suite** | Multiple 2D/3D prototypes with custom physics, particle systems, and compute shaders | `MonoGame` `C#` |
-
+| 📱 **[iOS Daily Activity Monitoring System](https://github.com/Dollars7/Daily-Activity-Monitoring-System)** | Native iOS app for tracking daily activity patterns and visualizing behavioral data | `Swift` `iOS` |
 ---
 
 
