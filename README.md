@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Ailun Pei (@Dollars7)
 
-I'm a CS graduate from **Arizona State University** (MS, May 2025), passionate about **Graphics Programming**, **Game Development**, and **Creative Tool Engineering**.  
-Before code, I spent years in ceramic sculpture and professional design in Shanghai — I think about visual systems and craft in ways most engineers don't.
+Software Engineer at **Polainco** — I own the order-ingestion and inventory-sync backend (Java/Spring Boot, MySQL, Redis, AWS) for a live-commerce operation, end-to-end.
 
-🎓 **MS Computer Science, ASU** | Seeking **Graphics / Game Dev / SDE** roles  
-💡 Interested in **real-time rendering**, **shader systems**, and **bridging art & engineering**  
-🌏 Bilingual (Chinese / English)
+Before code: years of **ceramic sculpture and professional design** in Shanghai — I think about visual systems and craft in ways most engineers don't. That's why half of this profile is graphics.
+
+🎓 B.S./M.S. Computer Science, Arizona State University · 🌏 Bilingual (Chinese/English)
+💡 Backend systems, real-time rendering, and bridging art & engineering
+
 
 <div align="center">
 
