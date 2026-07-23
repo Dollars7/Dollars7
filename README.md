@@ -35,7 +35,7 @@ Before code: years of **ceramic sculpture and professional design** in Shanghai 
 
 | Project | Description | Stack |
 |---|---|---|
-| 📘 **[Knowledge Feed NoteFlow](https://github.com/Dollars7/NoteFlow)** | A full-stack knowledge-sharing platform with feed, note publishing, and content organization (MVP in progress) | `React` `Node.js / FastAPI` `DB` |
+| 🧠 **[NoteFlow](https://github.com/Dollars7/NoteFlow)** | A retention-first learning system that turns Markdown notes into retrieval cards and decides what to review next | `React` `TypeScript` `Cloudflare Workers` `D1` |
 | 🎵 **[Music Visualizer Studio](https://github.com/Dollars7/music-visualizer-studio)** | Real-time audio visualization system combining WebGL rendering and media processing pipeline (FFmpeg) | `WebGL` `GLSL` `JavaScript` `FFmpeg` |
 
 ---
