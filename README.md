@@ -71,13 +71,49 @@ Smaller builds and experiments. I make things to understand them — some grow i
 
 ## Stack
 
-**Backend** Java · Spring Boot · REST APIs · MySQL · Redis · AWS
+<table>
+  <tr>
+    <td>💻 <strong>Languages</strong></td>
+    <td>C++, C#, Python, Java, GML, Bash, Swift, Kotlin</td>
+    <td>C#, C++, Python, JavaScript, TypeScript, HLSL, GLSL, Java, Bash, Swift, Kotlin</td>
+  </tr>
+  <tr>
+    <td>🎮 <strong>Game & Graphics</strong></td>
+    <td>Unity, MonoGame, WebGL, OpenGL, GLSL, Shader Graph, Core Animation</td>
+    <td>Unity, MonoGame, WebGL, OpenGL, DirectX, Unreal Engine, GLSL, Shader Graph</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Creative & 3D Tools</strong></td>
+    <td>Blender, Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Substance Painter, Figma</td>
+    <td>Blender, Cinema 4D, Adobe Photoshop, Illustrator, After Effects, Substance Painter, Figma</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Frontend & UI</strong></td>
+    <td>HTML/CSS, JavaScript, UIKit, JavaFX, Android Studio, UI/UX Prototyping</td>
+    <td>React, HTML/CSS, JavaScript, TypeScript, Three.js, UIKit, UI/UX Prototyping</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Dev Tools</strong></td>
+    <td>Git (CLI & GUI), Linux, Visual Studio, Xcode, VS Code, Notion, Obsidian</td>
+    <td>Git (CLI & GUI), Linux, Visual Studio, Xcode, VS Code, Docker, AWS</td>
+  </tr>
+  <tr>
+    <td>📦 <strong>Backend & Data</strong></td>
+    <td>RESTful API, MySQL, XML, JSON, Maven, pandas</td>
+    <td>Node.js, Flask, FastAPI, RESTful API, MySQL, JSON, pandas</td>
+  </tr>
+  <tr>
+    <td>🚀 <strong>Core Skills</strong></td>
+    <td>Object-Oriented Design, Shader Programming, Real-time Rendering, Cross-Platform Dev</td>
+    <td>Shader Programming, State Machines, Real-time Rendering, Physics Systems, OOP</td>
+  </tr>
+  <tr>
+    <td>🤝 <strong>Collaboration</strong></td>
+    <td>Art–Engineering Integration, Visual Communication, Mentorship, Team-based Design</td>
+    <td>Art–Engineering Integration, Visual Communication, Mentorship (250+ students)</td>
+  </tr>
+</table>
 
-**Product** TypeScript · React · Node.js · Cloudflare Workers · D1
-
-**Graphics** WebGL · GLSL · Unity · C# · real-time rendering
-
-**Tools** Git · Docker · Linux · VS Code · Figma
 
 ---
 
