@@ -13,10 +13,10 @@ Before software engineering I studied ceramic sculpture and worked in profession
 - 💡 Backend systems · full-stack product work · real-time graphics
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://dollars7.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-1D9BF0?style=for-the-badge&logo=readthedocs&logoColor=white)](https://dollars7.github.io/resume/SWE/Ailun_s_SWE_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailun-pei)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://dollars7.github.io/)
+[![SWE Resume](https://img.shields.io/badge/Resume-1D9BF0?style=for-the-badge&logo=readthedocs&logoColor=white)](https://dollars7.github.io/resume/SWE/Ailun_s_SWE_Resume.pdf)
+[![Game Resume](https://img.shields.io/badge/Graphics_Resume-8E44AD?style=for-the-badge&logo=unity&logoColor=white)](https://dollars7.github.io/resume/Game/Ailun_s_Game_Resume.pdf)
 
 </div>
 
@@ -92,6 +92,7 @@ Smaller builds and experiments. I make things to understand them — some grow i
   />
 </div>
 
+## 📈 Contribution Calendar
 <div align="center">
   <img src="https://ghchart.rshah.org/239a3b/Dollars7" alt="Dollars7's Contributions">
 </div>
