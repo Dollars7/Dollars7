@@ -72,8 +72,11 @@ Smaller builds and experiments. I make things to understand them — some grow i
 ## Stack
 
 **Backend** Java · Spring Boot · REST APIs · MySQL · Redis · AWS
+
 **Product** TypeScript · React · Node.js · Cloudflare Workers · D1
+
 **Graphics** WebGL · GLSL · Unity · C# · real-time rendering
+
 **Tools** Git · Docker · Linux · VS Code · Figma
 
 ---
